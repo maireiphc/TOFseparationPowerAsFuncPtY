@@ -14,7 +14,10 @@ Abstract :
     at the horizon of runs IV (~2027-2029) or V (> 2030) of the High-Luminosity LHC, HL-LHC.
     The intent is thus to appreciate the experimental realm of possible physics cases.
 
-As of 2021-03, the corresponding document and figures can be found under arXiv: ...
+As of 2021-03, the corresponding document and figures can be found under :
+   
+    arXiv : ...
+    ALICE internal note : ANA-1073
 
 Origin : 
 
