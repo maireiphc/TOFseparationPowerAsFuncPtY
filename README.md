@@ -17,6 +17,7 @@ Abstract :
 As of 2021-03, the corresponding document and figures can be found under :
    
     arXiv : ...
+    CDS : CERN-OPEN-2021-003, https://cds.cern.ch/record/2753971
     ALICE internal note : ANA-1073
 
 Origin : 
